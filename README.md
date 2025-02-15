@@ -2,7 +2,7 @@
 
 Sou um desenvolvedor apaixonado por **React**, **TypeScript** e **Clean Architecture**. Gosto de criar soluções que realmente impactam a vida das pessoas, e estou sempre em busca de aprender novas tecnologias e melhorar minhas habilidades.
 
-🔭 **Atualmente** trabalhando em [MauhelApp](#)  
+🔭 **Atualmente** trabalhando em [EstudeAi](https://github.com/ruhtra/EstudeAi)  
 🌱 **Sempre** aprendendo mais 
 
 ## Status e Estatísticas
@@ -20,7 +20,7 @@ Sou um desenvolvedor apaixonado por **React**, **TypeScript** e **Clean Architec
 
 ## Projetos Principais 🚀
 
-- **[MauhelApp](https://github.com/ruhtra/mauhelapp)**  
+- **[EstudeAi](https://github.com/ruhtra/EstudeAi)**  
   Uma aplicação de gerenciamento de questões de um cursinho preparatório.
   
 - **[BackupMonitoring](https://github.com/ruhtra/backupmonitoring)**  
